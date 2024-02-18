@@ -5,6 +5,7 @@
 *.gz
 *.lb
 *.dvi
+*.pgf
 *~
 *.DS_Store
 *.toc
